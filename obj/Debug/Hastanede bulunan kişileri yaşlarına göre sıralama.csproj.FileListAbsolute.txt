@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Game Design\C#\Hastanede bulunan kişileri yaşlarına göre sıralama\bin\Debug\Hastanede bulunan kişileri yaşlarına göre sıralama.exe.config
+C:\Users\PC\Desktop\Game Design\C#\Hastanede bulunan kişileri yaşlarına göre sıralama\bin\Debug\Hastanede bulunan kişileri yaşlarına göre sıralama.exe
+C:\Users\PC\Desktop\Game Design\C#\Hastanede bulunan kişileri yaşlarına göre sıralama\bin\Debug\Hastanede bulunan kişileri yaşlarına göre sıralama.pdb
+C:\Users\PC\Desktop\Game Design\C#\Hastanede bulunan kişileri yaşlarına göre sıralama\obj\Debug\Hastanede bulunan kişileri yaşlarına göre sıralama.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Game Design\C#\Hastanede bulunan kişileri yaşlarına göre sıralama\obj\Debug\Hastanede bulunan kişileri yaşlarına göre sıralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Game Design\C#\Hastanede bulunan kişileri yaşlarına göre sıralama\obj\Debug\Hastanede bulunan kişileri yaşlarına göre sıralama.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Game Design\C#\Hastanede bulunan kişileri yaşlarına göre sıralama\obj\Debug\Hastanede bulunan kişileri yaşlarına göre sıralama.exe
+C:\Users\PC\Desktop\Game Design\C#\Hastanede bulunan kişileri yaşlarına göre sıralama\obj\Debug\Hastanede bulunan kişileri yaşlarına göre sıralama.pdb
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Hastanede bulunan kişileri yaşlarına göre sıralama\obj\Debug\Hastanede bulunan kişileri yaşlarına göre sıralama.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Hastanede bulunan kişileri yaşlarına göre sıralama\obj\Debug\Hastanede bulunan kişileri yaşlarına göre sıralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Hastanede bulunan kişileri yaşlarına göre sıralama\obj\Debug\Hastanede bulunan kişileri yaşlarına göre sıralama.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Hastanede bulunan kişileri yaşlarına göre sıralama\obj\Debug\Hastanede bulunan kişileri yaşlarına göre sıralama.exe
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Hastanede bulunan kişileri yaşlarına göre sıralama\obj\Debug\Hastanede bulunan kişileri yaşlarına göre sıralama.pdb
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Hastanede bulunan kişileri yaşlarına göre sıralama\bin\Debug\Hastanede bulunan kişileri yaşlarına göre sıralama.exe.config
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Hastanede bulunan kişileri yaşlarına göre sıralama\bin\Debug\Hastanede bulunan kişileri yaşlarına göre sıralama.exe
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Hastanede bulunan kişileri yaşlarına göre sıralama\bin\Debug\Hastanede bulunan kişileri yaşlarına göre sıralama.pdb
